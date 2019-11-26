@@ -225,7 +225,7 @@ class Property
 
     public function getAddress(): ?string
     {
-        return $this->adsress;
+        return $this->address;
     }
 
     public function setAddress(string $address): self
